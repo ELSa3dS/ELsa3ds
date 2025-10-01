@@ -17,24 +17,37 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student at Assiut University  
-- 🌱 Currently learning: Competitive Programming, C++, Problem Solving  
+- 🌱 Currently learning: Competitive Programming, Python, C#, Java, Web Development  
 - 🎯 Goal: Participate in ICPC & ICOC  
 - ⚡ Interests: Algorithms, Data Structures, Software Security  
 
 ---
 
 ## 🛠 Skills
-**Languages:** C++ · Python · Java  
-**Tools:** Git · GitHub · VS Code · Linux  
-**Fields of Interest:** Problem Solving · Competitive Programming · Software Development  
+
+**Main Language:**  
+- C++  
+
+**Currently Learning / Focusing On:**  
+- Python · C# · Java · HTML · CSS · JavaScript · SQL  
+
+**Tools & Platforms:**  
+- Git · GitHub · VS Code · Visual Studio · Linux  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" />
 </div>
 
 ---
