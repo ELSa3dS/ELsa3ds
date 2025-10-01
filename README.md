@@ -14,6 +14,12 @@
   <a href="https://codeforces.com/profile/EL-Sa3d">
     <img src="https://img.shields.io/badge/Codeforces-EL--Sa3d-blue?style=for-the-badge&logo=codeforces" height="28" />
   </a>
+  <a href="https://leetcode.com/u/Hussein_Sa3d/">
+    <img src="https://img.shields.io/badge/LeetCode-Hussein__Sa3d-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" />
+  </a>
+  <a href="https://vjudge.net/user/Hussein_Sa3d">
+    <img src="https://img.shields.io/badge/VJudge-Hussein__Sa3d-darkgreen?style=for-the-badge&logo=codeforces&logoColor=white" height="28" />
+  </a>
 </p>
 
 ---
@@ -84,3 +90,5 @@
 - LinkedIn: [el-sa3d](https://www.linkedin.com/in/el-sa3d)  
 - GitHub: [ELSa3dS](https://github.com/ELSa3dS)  
 - Codeforces: [EL-Sa3d](https://codeforces.com/profile/EL-Sa3d)  
+- LeetCode: [Hussein_Sa3d](https://leetcode.com/u/Hussein_Sa3d/)  
+- VJudge: [Hussein_Sa3d](https://vjudge.net/user/Hussein_Sa3d)  
